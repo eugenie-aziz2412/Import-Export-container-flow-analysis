@@ -1,2 +1,2 @@
-# Import-Export-container-flow-analysis
-This project focuses on analyzing import and export container movements in maritime shipping.  By using data analysis tools, the project aims to uncover patterns in global shipping activity and provide insights into how container trade evolves over time.
+# Damietta-Port-Container-Terminal-Analytics (Import-Export-container-flow-analysis)
+An end-to-end data analytics and business intelligence project evaluating container terminal performance, vessel turnaround efficiency, equipment load distribution, and yard dwell dynamics at Damietta Terminal.
